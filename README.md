@@ -9,8 +9,11 @@
 
 ### Top Projects 👨🏻‍🎨
 - [StyleGAN2 Face-frame correction](https://github.com/AgustinRoca/StyleGAN2-FaceFrameCorrection) - investigation on StyleGAN2 latent space and human memory
-- [SIA TPs](https://github.com/JuanGriggio/SIA-Group5) - AI models and algorithms
-- [TP Bioinformatica](https://github.com/AgustinRoca/TP-Bioinformatica) - Bioinformatics basic tools exercises
+- [SIA TPs](https://github.com/AgustinRoca/SIA-TPs) - AI models and algorithms
+- [ML TPs](https://github.com/AgustinRoca/ML-TPs) - ML algorithms
+- [ATI TP](https://github.com/AgustinRoca/ATI-TP) - Image processing, masks, filters, noise, object detection, border detection
+- [TPs Bioinformatica](https://github.com/AgustinRoca/Bioinformatica-TPs) - Bioinformatics basic tools exercises
+- [VR TPs](https://github.com/AgustinRoca/VR-TPs) - Virtual Reality applications
 
 ### Certifications 🪪
 - [Google Cloud Essentials](https://www.cloudskillsboost.google/public_profiles/b052fff1-74ce-41be-8abe-b74ffcb2423d/badges/1757114)
