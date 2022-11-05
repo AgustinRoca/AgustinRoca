@@ -4,6 +4,9 @@
 - **Information Technology Analyst** associate's degree @ [ITBA](https://www.itba.edu.ar)
 - 🔜 **Software Engineer** degree @ [ITBA](https://www.itba.edu.ar) (Dic 2022)
 
+### Personal portfolio
+- [https://agustinroca.github.io/](https://agustinroca.github.io/)
+
 ### Work experience 👨🏻‍🔧
 - Software Engineer Intern @ [JP Morgan](https://www.jpmorgan.com/AR/en/about-us) (Nov 2021 - Apr 2022)
 
