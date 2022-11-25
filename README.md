@@ -19,6 +19,8 @@
 - [VR TPs](https://github.com/AgustinRoca/VR-TPs) - Virtual Reality applications
 
 ### Certifications 🪪
+- [Multilayer Perceptron](https://olympus1.mygreatlearning.com/course_certificate/ILHGHBJW)
+- [Convolutional Neural Networks](https://olympus1.mygreatlearning.com/course_certificate/FEZSVPLT)
 - [Google Cloud Essentials](https://www.cloudskillsboost.google/public_profiles/b052fff1-74ce-41be-8abe-b74ffcb2423d/badges/1757114)
 - [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/b052fff1-74ce-41be-8abe-b74ffcb2423d/badges/1785023)
 
