@@ -8,6 +8,7 @@
 - [https://agustinroca.github.io/](https://agustinroca.github.io/)
 
 ### Work experience 👨🏻‍🔧
+- Research Assistant @ [LINAR - UdeSA](https://linar.udesa.edu.ar/) (Feb 2023 - Present)
 - Software Engineer Intern @ [JP Morgan](https://www.jpmorgan.com/AR/en/about-us) (Nov 2021 - Apr 2022)
 
 ### Top Projects 👨🏻‍🎨
