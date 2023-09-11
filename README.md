@@ -2,7 +2,7 @@
 - Fields of interest: AI, ML, Image Processing, Videogames, Bioinformatics, VR, AR
 - Argentinean 🇦🇷 🧉
 - **Information Technology Analyst** associate's degree @ [ITBA](https://www.itba.edu.ar)
-- 🔜 **Software Engineer** degree @ [ITBA](https://www.itba.edu.ar) (Dic 2022)
+- **Software Engineer** degree @ [ITBA](https://www.itba.edu.ar)
 
 ### Personal portfolio 🌐
 - [https://agustinroca.github.io/](https://agustinroca.github.io/)
