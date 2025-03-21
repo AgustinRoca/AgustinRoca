@@ -1,11 +1,16 @@
 ### Hi, I’m Agustín Roca 👋
-- Fields of interest: AI, ML, Image Processing, Videogames, Bioinformatics, VR, AR
+
+- Fields of interest: Computer Vision, AI Interpretability, Deep Learning, Image Processing
 - Argentinean 🇦🇷 🧉
-- **Information Technology Analyst** associate's degree @ [ITBA](https://www.itba.edu.ar)
 - **Software Engineer** degree @ [ITBA](https://www.itba.edu.ar)
+- Currently PhD student @ [Universidad de San Andrés](https://www.udesa.edu.ar)
 
 ### Personal portfolio 🌐
 - [https://agustinroca.github.io/](https://agustinroca.github.io/)
+
+## Publications 📄
+
+- Efficient Endangered Deer Species Monitoring with UAV Aerial Imagery and Deep Learning *Published in 2024 IEEE Biennial Congress of Argentina (ARGENCON)*
 
 ### Work experience 👨🏻‍🔧
 - Research Assistant @ [LINAR - UdeSA](https://linar.udesa.edu.ar/) (Feb 2023 - Present)
@@ -20,6 +25,7 @@
 - [VR TPs](https://github.com/AgustinRoca/VR-TPs) - Virtual Reality applications
 
 ### Certifications 🪪
+- [Getting Started with Deep Learning (NVIDIA)](https://learn.nvidia.com/certificates?id=9kgVIuAnSZuPpDQNwEevBQ)
 - [Google Cloud Essentials](https://www.cloudskillsboost.google/public_profiles/b052fff1-74ce-41be-8abe-b74ffcb2423d/badges/1757114)
 - [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/b052fff1-74ce-41be-8abe-b74ffcb2423d/badges/1785023)
 
