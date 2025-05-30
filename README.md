@@ -10,7 +10,8 @@
 
 ## Publications 📄
 
-- [Efficient Endangered Deer Species Monitoring with UAV Aerial Imagery and Deep Learning](https://ieeexplore.ieee.org/document/10735858) - *Published in 2024 IEEE Biennial Congress of Argentina (ARGENCON)*
+- [Efficient Endangered Deer Species Monitoring with UAV Aerial Imagery and Deep Learning](https://doi.org/10.1109/ARGENCON62399.2024.10735858) - *Published in 2024 IEEE Biennial Congress of Argentina (ARGENCON)*
+- [Detection of Endangered Deer Species Using UAV Imagery: A Comparative Study between Efficient Deep Learning Approaches](https://doi.org/10.1109/ICUAS65942.2025.11007886) - *Published in 2025 International Conference on Unmanned Aircraft Systems (ICUAS)*
 
 ### Work experience 👨🏻‍🔧
 - Research Assistant @ [LINAR - UdeSA](https://linar.udesa.edu.ar/) (Feb 2023 - Present)
