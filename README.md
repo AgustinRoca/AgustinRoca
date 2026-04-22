@@ -14,16 +14,16 @@
 - [Detection of Endangered Deer Species Using UAV Imagery: A Comparative Study between Efficient Deep Learning Approaches](https://doi.org/10.1109/ICUAS65942.2025.11007886) - *Published in 2025 International Conference on Unmanned Aircraft Systems (ICUAS)*
 
 ### Work experience 👨🏻‍🔧
-- Research Assistant @ [LINAR - UdeSA](https://linar.udesa.edu.ar/) (Feb 2023 - Present)
+- AI Researcher @ [LINAR - UdeSA](https://linar.udesa.edu.ar/) (Feb 2023 - Present)
 - Software Engineer Intern @ [JP Morgan](https://www.jpmorgan.com/AR/en/about-us) (Nov 2021 - Apr 2022)
 
 ### Top Projects 👨🏻‍🎨
-- [StyleGAN2 Face-frame correction](https://github.com/AgustinRoca/StyleGAN2-FaceFrameCorrection) - investigation on StyleGAN2 latent space and human memory
-- [SIA TPs](https://github.com/AgustinRoca/SIA-TPs) - AI models and algorithms
-- [ML TPs](https://github.com/AgustinRoca/ML-TPs) - ML algorithms
-- [ATI TP](https://github.com/AgustinRoca/ATI-TP) - Image processing, masks, filters, noise, object detection, border detection
-- [TPs Bioinformatica](https://github.com/AgustinRoca/Bioinformatica-TPs) - Bioinformatics basic tools exercises
-- [VR TPs](https://github.com/AgustinRoca/VR-TPs) - Virtual Reality applications
+- [auto-dataset](https://github.com/udesa-ai/auto-dataset) - UdeSA autonomous driving dataset
+- [StyleGAN2 Face-frame correction](https://github.com/AgustinRoca/StyleGAN2-FaceFrameCorrection) - Investigation on StyleGAN2 latent space and human memory
+- [multimodal-scene-captioning](https://github.com/AgustinRoca/multimodal-scene-captioning) - Agentic pipeline to do semantic captioning of autonomous driving scenes
+- [aerial-wildlife-datasets](https://github.com/AgustinRoca/aerial-wildlife-datasets) - Aerial view wildlife datasets list
+- [football-ai](https://github.com/AgustinRoca/football-ai) - Simple football player detection application
+- [genetic-pokemon-team-optimizer](https://github.com/AgustinRoca/genetic-pokemon-team-optimizer) - Genetic algorithm for Pokemon team building
 
 ### Certifications 🪪
 - [Getting Started with Deep Learning (NVIDIA)](https://learn.nvidia.com/certificates?id=9kgVIuAnSZuPpDQNwEevBQ)
